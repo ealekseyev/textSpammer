@@ -1,0 +1,2 @@
+the text here will be typed at the speed of light one by one. Spaces are replaced with newlines, 
+and newlines in this file are treated the same as spaces.
